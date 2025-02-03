@@ -36,36 +36,6 @@ Additionally, the following supporting files are also present at the root direct
 *   `.gitignore`: Specifies intentionally untracked files that Git should ignore.
 *   `git_push.bat`: Windows batch file for git pushing.
 
-## How to Use
-
-1.  **Explore Folders:** Browse the folders corresponding to the C++ concept you want to explore.
-2.  **Review Code:** Each folder will contain C++ source code files (.cpp or .h) along with any relevant explanations and comments inside the code.
-3.  **Compile & Run:** Compile and run the code using a C++ compiler (like g++) on your system to see the concepts in action.
-
-## Contribution Guidelines
-
-Contributions are welcome! If you have improvements, bug fixes, or want to add a new concept example, please follow these steps:
-
-1.  **Fork:** Fork the repository to your GitHub account.
-2.  **Create Branch:** Create a new branch for your feature or fix (e.g., `git checkout -b my-new-feature`).
-3.  **Implement:** Make your changes, ensuring the code is well-documented and tested.
-4.  **Test:** Include necessary tests.
-5.  **Commit:** Commit your changes with a descriptive commit message (e.g., `git commit -m "Add: Demonstration of concept XYZ"`).
-6.  **Push:** Push your changes to your branch (e.g., `git push origin my-new-feature`).
-7.  **Pull Request:** Create a pull request to merge your changes into the main branch.
-
-## Code Style
-
-Please make sure that your code is well-formatted and follows a consistent style, preferably following common C++ coding guidelines.
-
-## License
-
-This project is licensed under the [Choose your license, e.g., MIT License]. See the `LICENSE` file for more details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me directly.
-
 ## TODO (Future Improvements)
 
 *   Add more C++ concept examples.
