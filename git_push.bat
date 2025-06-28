@@ -4,6 +4,10 @@ SETLOCAL
 cls
 
 echo =========================== git status =================================
+git pull
+pause
+
+echo =========================== git status =================================
 git status
 pause
 
